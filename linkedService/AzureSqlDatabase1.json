@@ -8,10 +8,7 @@
 			"database": "AzurePersonalDatabase",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
-			"authenticationType": "SystemAssignedManagedIdentity",
-			"alwaysEncryptedSettings": {
-				"alwaysEncryptedAkvAuthType": "ManagedIdentity"
-			}
+			"authenticationType": "SystemAssignedManagedIdentity"
 		}
 	}
 }
