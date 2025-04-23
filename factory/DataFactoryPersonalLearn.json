@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryPersonalLearn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "97a9b6af-f6eb-401c-a5e1-e3615f29a818",
+		"tenantId": "3df1e282-398f-473d-8e67-e3b9bfbbedeb"
+	}
+}
