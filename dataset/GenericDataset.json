@@ -18,11 +18,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"folderPath": {
-					"value": "@dataset().Folder",
-					"type": "Expression"
-				},
-				"fileSystem": "demo"
+				"fileName": "KDD20test.csv",
+				"fileSystem": "blobcontainer"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
